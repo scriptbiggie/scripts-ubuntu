@@ -1,6 +1,6 @@
-########## OpenCV 3.3.0 with CUDA 9.0 Support Ubuntu 16.04 ##########
+# OpenCV 3.3.0 with CUDA 9.0 Support Ubuntu 16.04 
 
-# Achtung! Should you want to install OpenCV on Ubuntu 16.04 without GPU support, simply use this URL:
+# ACHTUNG! Should you want to install OpenCV on Ubuntu 16.04 without GPU support, simply use this URL:
 # https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/
 
 # Update Ubuntu before installation
