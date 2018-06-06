@@ -1,5 +1,3 @@
-# This repository simply includes useful scripts to be used on Ubuntu 16.04 environment.
-
 ## OpenCV-3.3.0-install.sh
 
 ### Please follow the following instructions to make OpenCV 3.3.0 enabled for CUDA 9.0
